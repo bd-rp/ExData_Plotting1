@@ -1,0 +1,1 @@
+plot1 <- with(Feb_2017, hist(Global_active_power, col="red", main= "Global Active Power", xlab= "Global Active Power(kilowatts)"))
